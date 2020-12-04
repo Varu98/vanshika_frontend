@@ -3,7 +3,24 @@
     "id": 1,
     "subject": "Issue Email Certificate Expired",
     "status": "Client Response Pending",
-    "addedAt": "2020-09-20"
+    "addedAt": "2020-09-20",
+    "history": [
+      {
+        "date": "20-10-10",
+        "message": "lorem ipsum",
+        "messageBy": "client"
+      },
+      {
+        "date": "20-10-10",
+        "message": "lorem ipsum",
+        "messageBy": "operator"
+      },
+      {
+        "date": "20-10-10",
+        "message": "lorem ipsum",
+        "messageBy": "client"
+      }
+    ]
   },
   {
     "id": 2,
